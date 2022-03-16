@@ -1,0 +1,6 @@
+/logs
+/reports
+
+/src/*.py
+
+__pycache__
